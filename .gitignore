@@ -1,0 +1,10 @@
+node_modules
+.vscode
+**/.DS_Store
+build
+.idea/.gitignore
+.idea/compiler.xml
+.idea/kitties-frontend.iml
+.idea/runConfigurations.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/libraries/cache.xml
